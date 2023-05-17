@@ -12,7 +12,7 @@ body, h1, h2, h3, p, ul, li {
   }
   
   header {
-    background: #397ff0;
+    background: #4588f4;
     padding: 20px;
     color: #fefefe;
   }
@@ -38,7 +38,7 @@ body, h1, h2, h3, p, ul, li {
 
 
 .hero {
-background: #f2f2f2;
+background: #4fe6f4;
 padding: 50px;
 text-align: center;
 }
@@ -71,7 +71,7 @@ margin-bottom: 30px;
 }
 
 .pricing {
-background: #f2f2f2;
+background: #3bee7a;
 padding: 50px;
 text-align: center;
 }
